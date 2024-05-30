@@ -1,0 +1,6 @@
+[2024-05-26 16:45:49,718][__main__][INFO] - Data loaded successfully
+[2024-05-26 16:45:49,718][__main__][INFO] - Now starting federated learning
+[2024-05-26 16:45:49,719][flwr][INFO] - Starting Flower simulation, config: ServerConfig(num_rounds=10, round_timeout=None)
+[2024-05-26 16:45:54,576][flwr][INFO] - Flower VCE: Ray initialized with resources: {'object_store_memory': 2147483648.0, 'node:127.0.0.1': 1.0, 'CPU': 10.0, 'memory': 9012355072.0}
+[2024-05-26 16:45:54,577][flwr][INFO] - Initializing global parameters
+[2024-05-26 16:45:54,577][flwr][INFO] - Requesting initial parameters from one random client
